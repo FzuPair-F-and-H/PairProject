@@ -52,6 +52,7 @@
 body {
     text-align: center;
     background-image:url('img/1.jpg') !important;
+/*   如果服务器部署不能访问，可以使用下面的链接   */
     /*background-image:url('../img/1.jpg') !important;*/
     background-size: 100%;
     /*background-repeat: no-repeat;*/
@@ -545,6 +546,8 @@ body {
 
         text-align: center;
         background-image:url('img/2.jpg') !important;
+        
+/*   如果服务器部署不能访问，可以使用下面的链接   */
         /*background-image:url('../img/2.jpg') !important;*/
         /*可换上面的图片地址*/
         background-size: 100% !important;
