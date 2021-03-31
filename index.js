@@ -1,3 +1,4 @@
+// 公共头文件，用来展示顶部导航栏，方便调用
 document.writeln("<div>");
 document.writeln("    <ul class=\'daohang\'>");
 document.writeln("        <li class=\'daohangli1\'>" +
